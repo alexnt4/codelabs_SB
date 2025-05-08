@@ -1,6 +1,6 @@
 # Desarrollo III - Codelabs  
 
-Victor Hernandez - 2259520
+Alex Garcia Castañeda - 2259517
 
 En este repositorio encontrarás soluciones a los ejercicios prácticos (codelabs) propuestos en la clase de **Desarrollo III**.  
 
